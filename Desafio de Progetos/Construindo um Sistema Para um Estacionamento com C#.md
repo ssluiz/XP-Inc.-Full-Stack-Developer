@@ -31,7 +31,7 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 
 ## Proposta
 Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
-![Diagrama de classe estacionamento](https://github.com/ssluiz/XP-Inc-Full-Stack-Developer/blob/main/DesafioDeProjetos/Construindo%20um%20Sistema%20Para%20um%20Estacionamento%20com%20C%23/diagrama_classe_estacionamento.png)
+![Diagrama de classe estacionamento](https://github.com/ssluiz/XP-Inc.-Full-Stack-Developer/blob/main/diagrama_classe_estacionamento.png)
 
 A classe contém três variáveis, sendo:
 
