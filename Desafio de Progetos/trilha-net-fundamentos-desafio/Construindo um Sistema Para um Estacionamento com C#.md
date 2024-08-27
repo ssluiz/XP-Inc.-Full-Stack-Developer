@@ -14,7 +14,7 @@ www.dio.me
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ## Desafio De Projetos
 #### Construindo um Sistema para um Estacionamento com C#
 
@@ -31,7 +31,7 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 
 ## Proposta
 Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
-![Diagrama de classe estacionamento](https://github.com/ssluiz/XP-Inc-Full-Stack-Developer/blob/main/DesafioDeProjetos/Construindo%20um%20Sistema%20Para%20um%20Estacionamento%20com%20C%23/diagrama_classe_estacionamento.png)
+![Diagrama de classe estacionamento](https://github.com/ssluiz/XP-Inc.-Full-Stack-Developer/blob/main/diagrama_classe_estacionamento.png)
 
 A classe contém três variáveis, sendo:
 
